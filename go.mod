@@ -12,7 +12,7 @@ require (
 	github.com/google/uuid v1.1.1 // indirect
 	go.uber.org/zap v1.15.0 // indirect
 	google.golang.org/genproto v0.0.0-20200825200019-8632dd797987 // indirect
-	google.golang.org/grpc v1.26.0
+	google.golang.org/grpc v1.27.0
 )
 
 replace github.com/coreos/go-systemd => github.com/coreos/go-systemd/v22 v22.1.0
